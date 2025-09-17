@@ -212,7 +212,7 @@
 | **🧠 ML/DL** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![RAPIDS](https://img.shields.io/badge/RAPIDS-76B900?style=flat) |
 | **🔬 Neuroscience** | ![DeepLabCut](https://img.shields.io/badge/DeepLabCut-4285F4?style=flat) ![SLEAP](https://img.shields.io/badge/SLEAP-FF6B6B?style=flat) ![Pynapple](https://img.shields.io/badge/Pynapple-FFD93D?style=flat) ![Spikeinterface](https://img.shields.io/badge/Spikeinterface-6C5CE7?style=flat) |
 | **📊 Data Analysis** | ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) ![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat) |
-| **🌐 Web** |  ![FastAPI](<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="120" height="30" alt="FastAPI" style="margin: 5px;"/>) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![NiceGUI](https://img.shields.io/badge/NiceGUI-FF4081?style=flat) |
+| **🌐 Web** |  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![NiceGUI](https://img.shields.io/badge/NiceGUI-FF4081?style=flat) |
 | **🖥️ GUI** | ![Tkinter](https://img.shields.io/badge/Tkinter-306998?style=flat&logo=python&logoColor=white) ![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=flat&logo=qt&logoColor=white) |
 
 
