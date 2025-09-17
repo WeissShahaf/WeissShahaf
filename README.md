@@ -115,7 +115,7 @@
 | **🌐 Web** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![NiceGUI](https://img.shields.io/badge/NiceGUI-FF4081?style=for-the-badge) |
 | **🖥️ GUI** | ![Tkinter](https://img.shields.io/badge/Tkinter-306998?style=for-the-badge&logo=python&logoColor=white) ![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white) ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white) ![NiceGUI](https://img.shields.io/badge/NiceGUI-FF4081?style=for-the-badge) |
 | **🐍 Virtual Environments** | ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Mamba](https://img.shields.io/badge/Mamba-FFD43B?style=for-the-badge) ![uv](https://img.shields.io/badge/uv-FF6B35?style=for-the-badge) |
-| **🧪 Testing** | ![pytest][(https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://img.shields.io/badge/pytest-%2300ADD8.svg?style=for-the-badge&logo=pytest&logoColor=white)
+| **🧪 Testing** | ![pytest](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://img.shields.io/badge/pytest-%2300ADD8.svg?style=for-the-badge&logo=pytest&logoColor=white)
 
 ## 🕓 Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
