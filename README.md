@@ -90,19 +90,6 @@
 <br />
 <br />
 
-### supported programming languages:
-
-
-<code><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"  width="50" height="50">
-* Python
-
-<br />
-<br />
-<br />
-<br />
-<code><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"  width="50" height="50">
-* MATLAB
-
 
 
 # 🛠️ Tech Stack
@@ -164,10 +151,9 @@
 | **📊 Data** | ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) ![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat) |
 | **🌐 Web** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![NiceGUI](https://img.shields.io/badge/NiceGUI-FF4081?style=flat) |
 | **🖥️ GUI** | ![Tkinter](https://img.shields.io/badge/Tkinter-306998?style=flat&logo=python&logoColor=white) ![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=flat&logo=qt&logoColor=white) |
+| **🖥️ virtual environments ** | ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
+| ** 🖥️ video **| ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![OpenCV](🎞)
 
-### 🔧 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 
 
