@@ -1,8 +1,8 @@
   
 
 <img align="center" width="1280" height="800" alt="Gemini_Generated_Image_s58o02s58o02s58o" src="https://github.com/user-attachments/assets/eb42e113-759e-4c7f-80c2-787507a0b680" />
-<h2>
-###  Hi,I'm Shahaf Weiss, an electrophysiologisty, Consultant,  Developer, and founder of Rent-A-Spike consulting services:
+
+# Hi,I'm Shahaf Weiss, an electrophysiologisty, Consultant,  Developer, and founder of Rent-A-Spike consulting services:
   
 
 # My services
