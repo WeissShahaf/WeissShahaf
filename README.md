@@ -18,7 +18,7 @@
   
   * designing experimental devices, silicone probes, behavioral arenas
   * designing analysis workflows
-  * troubleshooting existingb experiments
+  * troubleshooting existing experiments
 <br />
 <br />
 <br />
@@ -59,7 +59,7 @@
 
 * electrophysiology
 * spike sorting
-* denoising, debuggin
+* denoising 🔌, debuggin
 * comparative vertabrate anatomy
 * neuroanatomy
 
