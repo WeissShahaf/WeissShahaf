@@ -82,17 +82,17 @@
 
 
 </a>
-<h2> 🚀 &nbsp;Some tools we have used in previous projects </h2>
+<h2> # 🛠️ Tech Stack: some tools we have used in previous projects </h2>
 ## Neuurosciencd oriented packages: DeepLabCut,SLEAP, Pynapple, Spikeinterface
-## FrontEnd: PyQt, PySide6, TKinter, NICEGUI 
-## BackEnd: Pytorch, TensorFlow, RAPIDS, FastAPI, polars, pandas, cudf, numpy, scipy, hdbscan, AsyncIO,joblib
+
+
 
 <br />
 <br />
 
 
 
-# 🛠️ Tech Stack
+
 
 ## Languages
 <div align="left">
@@ -125,3 +125,32 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 🐍 Python Ecosystem
+| Category | Technologies |
+|----------|-------------|
+| **🧠 ML/DL** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![RAPIDS](https://img.shields.io/badge/RAPIDS-76B900?style=for-the-badge) |
+| **🔬 Neuroscience** | ![DeepLabCut](https://img.shields.io/badge/DeepLabCut-4285F4?style=for-the-badge) ![SLEAP](https://img.shields.io/badge/SLEAP-FF6B6B?style=for-the-badge) ![Pynapple](https://img.shields.io/badge/Pynapple-FFD93D?style=for-the-badge) ![Spikeinterface](https://img.shields.io/badge/Spikeinterface-6C5CE7?style=for-the-badge) |
+| **📊 Data** | ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge) ![cuDF](https://img.shields.io/badge/cuDF-76B900?style=for-the-badge) ![CuPy](https://img.shields.io/badge/CuPy-E15125?style=for-the-badge) |
+| **📹 Video** | ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) |
+| **🌐 Web** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![NiceGUI](https://img.shields.io/badge/NiceGUI-FF4081?style=for-the-badge) |
+| **🖥️ GUI** | ![Tkinter](https://img.shields.io/badge/Tkinter-306998?style=for-the-badge&logo=python&logoColor=white) ![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white) ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white) ![NiceGUI](https://img.shields.io/badge/NiceGUI-FF4081?style=for-the-badge) |
+| **🐍 Virtual Environments** | ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Mamba](https://img.shields.io/badge/Mamba-FFD43B?style=for-the-badge) ![uv](https://img.shields.io/badge/uv-FF6B35?style=for-the-badge) |
+| **🧪 Testing** | ![pytest](https://img.shields.io/badge/pytest-%2300ADD8.svg?style=for-the-badge&logo=pytest&logoColor=white) |
