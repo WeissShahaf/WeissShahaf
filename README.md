@@ -23,8 +23,7 @@
 <br />
 <br />
 <br />
-<br />
-<br />
+
 
 ### Scientific Programming
   <br />
@@ -39,8 +38,7 @@
 <br />
 <br />
 <br />
-<br />
-<br />
+
 
 
 
@@ -59,10 +57,7 @@
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
+
 
 
 * electrophysiology
