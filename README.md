@@ -105,45 +105,7 @@
 
 ## Python Libraries & Frameworks
 
-### 🧠 Machine Learning & Deep Learning
-<div align="left">
-  <img src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png" width="100" height="25" alt="PyTorch" style="margin: 5px;"/>
-  <img src="https://raw.githubusercontent.com/tensorflow/tensorflow/master/tensorflow/tools/logos/tf_logo_horizontal.png" width="100" height="25" alt="TensorFlow" style="margin: 5px;"/>
-  <img src="https://rapids.ai/assets/images/rapids_logo.png" width="80" height="25" alt="RAPIDS" style="margin: 5px;"/>
-</div>
 
-### 🔬 Neuroscience & Data Analysis
-<div align="left">
-  <img src="https://deeplabcut.github.io/DeepLabCut/docs/logo_transparent.png" width="120" height="25" alt="DeepLabCut" style="margin: 5px;"/>
-  <img src="https://sleap.ai/docs/_static/sleap_logo.png" width="80" height="25" alt="SLEAP" style="margin: 5px;"/>
-  <img src="https://pynapple-org.github.io/pynapple/_static/logo_pynapple.png" width="100" height="25" alt="Pynapple" style="margin: 5px;"/>
-  <img src="https://spikeinterface.readthedocs.io/en/latest/_static/logo.png" width="120" height="25" alt="Spikeinterface" style="margin: 5px;"/>
-</div>
-
-### 📊 Data Processing
-<div align="left">
-  <img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="100" height="25" alt="pandas" style="margin: 5px;"/>
-  <img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/logos/polars_github_logo_rect_dark_name.svg" width="100" height="25" alt="Polars" style="margin: 5px;"/>
-</div>
-
-### 🌐 Web Development
-<div align="left">
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="120" height="30" alt="FastAPI" style="margin: 5px;"/>
-  <img src="https://nicegui.io/logo_dark.png" width="100" height="25" alt="NiceGUI" style="margin: 5px;"/>
-</div>
-
-### 🖥️ Desktop GUI Development
-<div align="left">
-  <img src="https://wiki.python.org/moin/TkInter?action=AttachFile&do=get&target=tkinter.png" width="80" height="30" alt="TKinter" style="margin: 5px;"/>
-  <img src="https://qt-project.org/qt-logo" width="60" height="30" alt="Qt" style="margin: 5px;"/>
-  <strong style="margin-left: 10px;">PySide6</strong>
-</div>
-
----
-
-## Alternative Compact Layout
-
-### 🐍 Python Ecosystem
 | Category | Technologies |
 |----------|-------------|
 | **🧠 ML/DL** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![RAPIDS](https://img.shields.io/badge/RAPIDS-76B900?style=flat) |
