@@ -31,8 +31,9 @@
 <br />
 <br />
   
-* data analysis  
-* pipelines
+* 📚 ![Uploading image.png…]()
+data analysis  
+* ⛓ pipelines
 
 <br />
 <br />
@@ -57,7 +58,8 @@
 <br />
 <br />
 
-* electrophysiology
+* ![Uploading image.png…]()
+electrophysiology
 * spike sorting
 * denoising 🔌, debugging
 * comparative vertabrate anatomy
