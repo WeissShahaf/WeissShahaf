@@ -83,27 +83,26 @@
 
 </a>
 <h2> 🚀 &nbsp;Some tools we have used in previous projects </h2>
-* Neuurosciencd oriented packages: DeepLabCut,SLEAP, Pynapple, Spikeinterface
-* FrontEnd: PyQt, PySide6, TKinter, NICEGUI 
-* BackEnd: Pytorch, TensorFlow, RAPIDS, FastAPI, polars, pandas, cudf, numpy, scipy, hdbscan, AsyncIO,joblib
+## Neuurosciencd oriented packages: DeepLabCut,SLEAP, Pynapple, Spikeinterface
+## FrontEnd: PyQt, PySide6, TKinter, NICEGUI 
+## BackEnd: Pytorch, TensorFlow, RAPIDS, FastAPI, polars, pandas, cudf, numpy, scipy, hdbscan, AsyncIO,joblib
 
 <br />
 <br />
 
+### supported programming languages:
 
 
 
-
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode"  width="100" height="100">
-
-
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"  width="100" height="100">
+Python
+<code><img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"  width="100" height="100">
 
 
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"  width="100" height="100">
+MATLAB
+<code><img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"  width="100" height="100">
 
 
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"  width="100" height="100" >
+
 
 
 
