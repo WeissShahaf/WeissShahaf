@@ -31,8 +31,7 @@
 <br />
 <br />
   
-* 📚 ![Uploading image.png…]()
-data analysis  
+* data analysis  
 * ⛓ pipelines
 
 <br />
