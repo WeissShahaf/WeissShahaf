@@ -16,11 +16,11 @@
 
 
   
-  * 🥼 Designing behavioral arenas, experimental devices, silicone probes, 3D printed drives and drive protection caps for chronic recordings
-  <br/>
-  * 📝 Designing novel analysis workflows and pipelines
-  * <br/>
-  * 💡 Troubleshooting existing experiments and code pipelines
+* 🥼 Designing behavioral arenas, experimental devices, silicone probes, 3D printed drives and drive protection caps for chronic recordings
+<br/>
+* 📝 Designing novel analysis workflows and pipelines
+* <br/>
+* 💡 Troubleshooting existing experiments and code pipelines
 <br /><br />
 
 
