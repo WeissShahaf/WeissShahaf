@@ -65,23 +65,9 @@ electrophysiology
 * neuroanatomy
 
 
+<br/><br/>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-</a>
-<h2> 
  🛠️ Tech Stack: some tools we have used in previous projects </h2>
 <br/><br/>
   
@@ -95,6 +81,7 @@ electrophysiology
   <br/><br/>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white.png" width="40" height="40" alt="C#" style="margin-right: 10px;"/>
   <strong>C#</strong>
+  <br/><br/>
 </div>
 
 
