@@ -1,4 +1,5 @@
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/eb42e113-759e-4c7f-80c2-787507a0b680" width="1200" height="300" alt="Neuroscience Consultant Header"/>
 ## 🚀 Ready to Advance Your Research?
 ### Get Expert Guidance for Your Neural Data Challenges
 <img align="center" width="1280" height="800" alt="Gemini_Generated_Image_s58o02s58o02s58o" src="https://github.com/user-attachments/assets/eb42e113-759e-4c7f-80c2-787507a0b680" />
