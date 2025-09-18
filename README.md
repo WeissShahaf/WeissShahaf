@@ -12,14 +12,11 @@
   <br /><br />
 <h2>
   <img lign="left" width="256" height="256" alt="ChatGPT Image Sep 17, 2025, 04_30_41 PM" src="https://github.com/user-attachments/assets/e0f09033-4106-4e30-975f-24fcbde46010" width="200" height="200"/>
-<br /><br />
-
-
-  
+<br />  
 * 🥼 Designing behavioral arenas, experimental devices, silicone probes, 3D printed drives and drive protection caps for chronic recordings
 <br/>
 * 📝 Designing novel analysis workflows and pipelines
-* <br/>
+<br/>
 * 💡 Troubleshooting existing experiments and code pipelines
 <br /><br />
 
