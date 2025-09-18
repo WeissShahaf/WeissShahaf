@@ -34,7 +34,7 @@
 
 <br /><br /><br /><br />
 
-### Teaching & project focused Technical instructions
+### Teaching & project focused technical instructions
 <br />
 <h2>
 <img align="left" width="256" height="256" alt="Gemini_Generated_Image_7bmzk37bmzk37bmz (2)" src="https://github.com/user-attachments/assets/8144b1ff-9b74-4363-b7d5-64f6f3d4b153" width="100" height="100" />
