@@ -50,10 +50,10 @@
 * :eye: Comparative vertabrate anatomy
 * :brain: Neuroanatomy
 
-<br/><br/>
+<a>
 
 # 🛠️ Tech Stack: some tools we have used in previous projects 
-<br/><br/>
+<br/>
   
 ## Languages
 
