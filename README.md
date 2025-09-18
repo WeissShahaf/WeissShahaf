@@ -16,13 +16,10 @@
 - Custom workshops for research teams and technical staff
 - **Specialties:** Comparative vertebrate anatomy, neuroanatomy, debugging complex pipelines
 
-### who am I?
-# 🧠 Shahaf Weiss. A published Researcher,🎓 
+# who am I?
+### 🧠 Shahaf Weiss. A published Researcher, 🎓 PhD Neuroscience , 15+ Years Ephys Analysis
 
-* PhD Neuroscience , 15+ Years Ephys Analysis
-
-
-## Neuroscience Consultant & Electrophysiology Expert,founder of Rent-A-Spike consulting   
+* Neuroscience Consultant & Electrophysiology Expert,founder of Rent-A-Spike consulting   
 
 
 
