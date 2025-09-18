@@ -45,10 +45,10 @@
 
 
 
-* Spike sorting
-* Denoising 🔌, debugging :beetle:
-* Comparative vertabrate anatomy
-* Neuroanatomy
+* :zap:Spike sorting
+* 🔌 Denoising , :beetle: debugging 
+* :eye: Comparative vertabrate anatomy
+* :brain: Neuroanatomy
 
 <br/><br/>
 
