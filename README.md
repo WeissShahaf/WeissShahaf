@@ -5,23 +5,22 @@
 # Hi,I'm Shahaf Weiss, an electrophysiologisty, Consultant,  Developer, and founder of Rent-A-Spike consulting services:
   
 
-# My services
+# Services:
 
 
 ### Consulting  
-  <br />
+  <br /><br />
 <h2>
   <img lign="left" width="256" height="256" alt="ChatGPT Image Sep 17, 2025, 04_30_41 PM" src="https://github.com/user-attachments/assets/e0f09033-4106-4e30-975f-24fcbde46010" width="200" height="200"/>
-<br />
+<br /><br />
 
 
   
-  * 🥼 designing experimental devices, silicone probes, behavioral arenas
-  * 📝 designing analysis workflows
-  * 💡 troubleshooting existing experiments
-<br />
-<br />
-<br />
+  * 🥼 Designing behavioral arenas, experimental devices, silicone probes, 3D printed drives and drive protection caps for chronic recordings 
+  * 📝 Designing novel analysis workflows and pipelines
+  * 💡 Troubleshooting existing experiments and code pipelines
+<br /><br />
+
 
 
 ### Scientific Programming
@@ -31,13 +30,10 @@
 <br />
 <br />
   
-* data analysis  
-* ⛓ pipelines
+* 📝 Intergrating behavior and neural datasets.
+* ⛓ Data analysis Pipelines 
 
-<br />
-<br />
-<br />
-<br />
+<br /><br /><br /><br />
 
 ### Teaching & project focused Technical instructions
 <br />
@@ -46,16 +42,7 @@
 
 
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 * ![Uploading image.png…]()
 electrophysiology
@@ -64,9 +51,7 @@ electrophysiology
 * comparative vertabrate anatomy
 * neuroanatomy
 
-
 <br/><br/>
-
 
  🛠️ Tech Stack: some tools we have used in previous projects </h2>
 <br/><br/>
