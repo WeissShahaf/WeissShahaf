@@ -81,8 +81,8 @@ electrophysiology
 
 
 </a>
-<h2>
-##  🛠️ Tech Stack: some tools we have used in previous projects </h2>
+<h2> 
+### 🛠️ Tech Stack: some tools we have used in previous projects </h2>
 <br/><br/>
   
 ## Languages
