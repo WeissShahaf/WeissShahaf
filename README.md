@@ -43,12 +43,12 @@
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-* ![Uploading image.png…]()
-electrophysiology
-* spike sorting
-* denoising 🔌, debugging
-* comparative vertabrate anatomy
-* neuroanatomy
+
+#### Electrophysiology
+* Spike sorting
+* Denoising 🔌, debugging
+* Comparative vertabrate anatomy
+* Neuroanatomy
 
 <br/><br/>
 
