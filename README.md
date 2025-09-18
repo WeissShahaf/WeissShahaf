@@ -84,7 +84,7 @@ electrophysiology
 <h2>
 # 🛠️ Tech Stack: some tools we have used in previous projects </h2>
 
-## Neuurosciencd oriented packages: DeepLabCut,SLEAP, Pynapple, Spikeinterface
+
 
 
 
@@ -96,6 +96,8 @@ electrophysiology
 
 
 ## Languages
+
+## Languages
 <div align="left">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40" height="40" alt="Python" style="margin-right: 10px;"/>
   <strong>Python</strong>
@@ -103,6 +105,7 @@ electrophysiology
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" width="40" height="40" alt="MATLAB" style="margin-right: 10px;"/>
   <strong>MATLAB</strong>
 </div>
+
 
 ## Python Libraries & Frameworks
 
@@ -125,6 +128,12 @@ electrophysiology
 ## 💻 Operating Systems
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+
+
+
+
+
+
 
 
 
