@@ -1,8 +1,11 @@
-  
 
+## 🚀 Ready to Advance Your Research?
+### Get Expert Guidance for Your Neural Data Challenges
 <img align="center" width="1280" height="800" alt="Gemini_Generated_Image_s58o02s58o02s58o" src="https://github.com/user-attachments/assets/eb42e113-759e-4c7f-80c2-787507a0b680" />
 
-# Hi,I'm Shahaf Weiss, an electrophysiologisty, Consultant,  Developer, and founder of Rent-A-Spike consulting 
+# 🧠 Shahaf Weiss | Neuroscience Consultant & Electrophysiology Expert,founder of Rent-A-Spike consulting   
+🎓 **PhD Neuroscience | 15+ Years Ephys Analysis | Published Researcher**
+
 <br /><br />
 ## you can contact me at shahaf.me@gmail.com
 <br /><br />
@@ -117,54 +120,20 @@
 
 
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/eb42e113-759e-4c7f-80c2-787507a0b680" width="1200" height="300" alt="Neuroscience Consultant Header"/>
-  
-  # 🧠 Shahaf Weiss | Neuroscience Consultant & Electrophysiology Expert
-  
-  ### Transforming Neural Signals into Business Intelligence
-  **I help biotech companies extract actionable insights from neural data to accelerate drug discovery and optimize experimental protocols.**
-  
-  🎓 **PhD Neuroscience | 10+ Years EEG Analysis | Published Researcher**
-  
-  [![Schedule Consultation](https://img.shields.io/badge/📅_Schedule_Your_Research_Consultation-0077B5?style=for-the-badge&logo=calendar&logoColor=white)](mailto:your.email@domain.com?subject=Research%20Consultation%20Request)
-  
-  **⚡ Personal reply within 3 business hours | Initial Consultation: $200**
-</div>
-
----
+ 
 
 ## 🎯 How I Accelerate Your Research
 
-### 🔬 Clinical Data Translation
-**Accelerate Clinical Trial Timelines with Advanced EEG Biomarker Discovery**
-- Identify neural biomarkers 6-12 months earlier than traditional methods
-- Reduce false positive rates by 40% through advanced signal processing
-- **Client Result:** *"Dr. Weiss's biomarker analysis helped us pivot our Alzheimer's drug candidate 18 months earlier, saving $30M in development costs."* - PharmaCorp Director
-
 ### 💻 Scalable Analysis Pipelines  
-**Transform Manual Analysis into Automated Intelligence Systems**
-- Custom Python/MATLAB workflows processing 1000+ hours of data daily
-- Real-time quality monitoring and artifact detection
-- **Impact:** Analyzed 10,000+ hours of neural data across 50+ clinical trials
+**Transform Manual Analysis into Automated pipelines**
+- Custom Python/MATLAB workflows 
+
 
 ### 🎓 Expert Knowledge Transfer
 **Build Your Team's Advanced Analysis Capabilities**
-- Hands-on training in spike sorting, signal processing, and biomarker extraction
+- Hands-on training in spike sorting, signal processing, behavior quantification, video analysis 
 - Custom workshops for research teams and technical staff
 - **Specialties:** Comparative vertebrate anatomy, neuroanatomy, debugging complex pipelines
-
----
-
-## 🏆 Proven Expertise
-
-<div align="center">
-
-| **Experience** | **Specialization** | **Tools Mastered** |
-|:---:|:---:|:---:|
-| **10+ Years** | Electrophysiology Analysis | **50+ Packages** |
-| **50+ Trials** | Clinical Biomarker Discovery | **3 Programming Languages** |
-| **$30M Saved** | Drug Development Optimization | **Real-time Processing** |
 
 </div>
 
@@ -184,7 +153,7 @@
 ## 🚀 Ready to Advance Your Research?
 
 <div align="center">
-
+## 🚀 Ready to Advance Your Research?
 ### Get Expert Guidance for Your Neural Data Challenges
 
 **Choose Your Preferred Contact Method:**
