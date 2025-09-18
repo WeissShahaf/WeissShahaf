@@ -18,7 +18,8 @@
 
 ### who am I?
 # 🧠 Shahaf Weiss. A published Researcher,🎓 
-**PhD Neuroscience , 15+ Years Ephys Analysis , **
+
+* PhD Neuroscience , 15+ Years Ephys Analysis
 
 
 ## Neuroscience Consultant & Electrophysiology Expert,founder of Rent-A-Spike consulting   
