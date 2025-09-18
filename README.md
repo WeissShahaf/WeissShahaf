@@ -104,6 +104,9 @@ electrophysiology
   <br/><br/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" width="40" height="40" alt="MATLAB" style="margin-right: 10px;"/>
   <strong>MATLAB</strong>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white.png" width="40" height="40" alt="C#" style="margin-right: 10px;"/>
+  
 </div>
 
 
@@ -113,7 +116,7 @@ electrophysiology
 | Category | Technologies |
 |----------|-------------|
 | **🧠 ML/DL** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![RAPIDS](https://img.shields.io/badge/RAPIDS-76B900?style=for-the-badge) |
-| **🔬 Neuroscience** | ![DeepLabCut](https://img.shields.io/badge/DeepLabCut-4285F4?style=for-the-badge) ![SLEAP](https://img.shields.io/badge/SLEAP-FF6B6B?style=for-the-badge) ![Pynapple](https://img.shields.io/badge/Pynapple-FFD93D?style=for-the-badge) ![Spikeinterface](https://img.shields.io/badge/Spikeinterface-6C5CE7?style=for-the-badge) |
+| **🔬 Neuroscience** | ![DeepLabCut](https://img.shields.io/badge/DeepLabCut-4285F4?style=for-the-badge) ![SLEAP](https://img.shields.io/badge/SLEAP-FF6B6B?style=for-the-badge) ![Pynapple](https://img.shields.io/badge/Pynapple-FFD93D?style=for-the-badge) ![Spikeinterface](https://img.shields.io/badge/Spikeinterface-6C5CE7?style=for-the-badge) |[Movement](https://img.shields.io/badge/Movement-76B900?style=for-the-badge)
 | **📊 Data** | ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge) ![cuDF](https://img.shields.io/badge/cuDF-76B900?style=for-the-badge) ![CuPy](https://img.shields.io/badge/CuPy-E15125?style=for-the-badge) |
 | **📹 Video** | ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) |
 | **🌐 Web** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![NiceGUI](https://img.shields.io/badge/NiceGUI-FF4081?style=for-the-badge) |
