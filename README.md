@@ -6,7 +6,7 @@
 <br /><br />
 ## you can contact me at shahaf.me@gmail.com
 <br /><br />
-## I offer:
+## I offer the following services:
   
 ### Consulting  
   <br /><br />
