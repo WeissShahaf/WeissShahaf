@@ -46,7 +46,7 @@
 
 
 * Spike sorting
-* Denoising 🔌, debugging
+* Denoising 🔌, debugging :beetle:
 * Comparative vertabrate anatomy
 * Neuroanatomy
 
