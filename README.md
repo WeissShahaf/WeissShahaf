@@ -29,7 +29,7 @@
 
 
 <br /><br />
-## you can contact me at shahaf.me@gmail.com
+## you can contact me at shahaf.me@gmail.com or book an online meeting: https://calendar.app.google/samWpg5e6JfQiVoZ7
 <br /><br />
 ## I offer the following services:
   
