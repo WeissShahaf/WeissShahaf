@@ -25,14 +25,17 @@
 * I help labs tackle the common Ephys problems that could make or break a project 
 
 
-
-
-
 <br /><br />
 ## contact me and let's talk! 
 - Book an online meeting: https://calendar.app.google/samWpg5e6JfQiVoZ7
 - Email: shahaf.me@gmail.com 
 
+# highlighted projects:
+- Ironclust, but faster: an optimization of the ironclust spike-sorting algorithm. runs 66% faster than original, with many UX/UI improvements https://github.com/WeissShahaf/ironclust_but_faster
+- Autosleap: a GUI wrapper fro SLEAP pose estimation inference of videos  https://github.com/WeissShahaf/autosleap
+
+
+  
 <br /><br />
 ## I offer the following services:
   
