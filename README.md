@@ -31,10 +31,16 @@
 - Book an online meeting: https://calendar.app.google/samWpg5e6JfQiVoZ7
 - Email: shahaf.me@gmail.com 
 
-# highlighted projects:
-- Ironclust, but faster: an optimization of the ironclust spike-sorting algorithm. runs 66% faster than original, with many UX/UI improvements https://github.com/WeissShahaf/ironclust_but_faster
-- Autosleap: a GUI wrapper fro SLEAP pose estimation inference of videos  https://github.com/WeissShahaf/autosleap
+# highlighted projects
+### Ironclust, but faster
 
+an optimization of the ironclust spike-sorting algorithm. runs 66% faster than original, with many UX/UI improvements https://github.com/WeissShahaf/ironclust_but_faster
+
+### Autosleap
+a GUI wrapper fro SLEAP pose estimation inference of videos  https://github.com/WeissShahaf/autosleap
+
+### EasySort
+a no-code spike sorting program, with flexible user-configureable pipelines 
 
   
 <br /><br />
