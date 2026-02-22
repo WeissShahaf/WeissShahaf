@@ -1,3 +1,5 @@
+![Neuroscience & Electrophysiology](https://github.com/user-attachments/assets/eb42e113-759e-4c7f-80c2-787507a0b680)
+
 ## Hi, I'm Shahaf Weiss
 
 **Neuroscience Consultant & Electrophysiology Specialist**
