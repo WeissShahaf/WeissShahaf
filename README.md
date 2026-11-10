@@ -24,9 +24,11 @@ Founder of **Rent-A-Spike** consulting.
 
 | Project | Description |
 |---------|-------------|
-| **[EasySort](https://github.com/retaspike/EasySort)** | A zero-code spike sorting app — 21+ sorters, 36+ formats, browser-based GUI |
+| **EasySort** | A zero-code spike sorting app — 21+ sorters, 36+ formats, browser-based GUI |
 | **[IronClust, but Faster](https://github.com/WeissShahaf/ironclust_but_faster)** | Optimized IronClust spike sorter — 66% faster with UX improvements |
 | **[AutoSLEAP](https://github.com/WeissShahaf/autosleap)** | GUI wrapper for SLEAP pose estimation inference |
+| **[Spiking Cell PSTH Simulator](https://github.com/WeissShahaf/spiking-cell-PSTH-simulator)** | Browser app: build a simulated cell, view its raster and PSTH, and run spike-response tests on it ([live app](https://weissshahaf.github.io/spiking-cell-PSTH-simulator/app/)) |
+| **[Statistical ICC Power Calculator](https://github.com/WeissShahaf/Statistical-ICC-power-calculator)** | Browser app: animals and cells per animal needed for 80% power when cells within an animal are correlated ([live app](https://weissshahaf.github.io/Statistical-ICC-power-calculator/app/)) |
 
 ---
 
